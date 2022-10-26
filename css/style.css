@@ -6,20 +6,29 @@
 body{
     background-image: url(/img/background.jpg);
 }
-.boton-inicio{
-    background-color: rgba(241, 173, 45, 0.863);
-    border: 1px solid red;
+
+.btn-inicio{
+    background-color: hwb(32 32% 3%);
     font-family:'DM Sans', sans-serif;
     border-radius: 5%;
 }
-.btn-inicio{
-    background-color: hwb(32 32% 3%);
-}
-
 .nav-bar-my{
     background-color: hwb(32 32% 3%);
     font-family: 'DM Sans', sans-serif;
     font-weight: 700;
-};
+}
 
+.page-title{
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+}
+
+@media screen and (max-width: 768px) {
+    .img-btn{
+        display: none;
+    }
+    .btn-group{
+        display: inline-block;
+    }
+}
 
