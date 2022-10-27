@@ -1,4 +1,17 @@
-/*font-family: 'DM Sans', sans-serif;
+/*Buenas! como estas? te comento unas cositas por aca. Empeze de nuevo el proyecto con boostrap full, complicaciones mas complicaciones menos pude entender como funcionan los breakpoints y demas. Mucha facilidad con el responsive de boostrap. 
+	hay una anotacion con respecto al margin-rigth, en donde le aplique un estilo para pisar el herdado que tiene la row de grids en boostrap, nose si era lo correcto, vos diras!
+
+
+
+
+LIBRERIAS: animista- font awesome - aoc 
+
+Errores index:
+		- texto en botones se rompen 350px (celular): 
+Errores producto: 
+		-problema de responsive, linea imaginaria a la derecha (corregido con margin rigth)
+
+font-family: 'DM Sans', sans-serif;
     Regular 400 
     Regular 400 Italic 
     Bold 700 
