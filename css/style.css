@@ -4,7 +4,7 @@
     Bold 700 
     Bold 700 Italic */
 body{
-    background-image: url(./img/background.jpg);
+    background-image: url(/img/background.jpg);
 }
 
 .btn-inicio{
